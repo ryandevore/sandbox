@@ -1,0 +1,3 @@
+[submodule "submod_test"]
+	path = submod_test
+	url = https://github.com/ryandevore/submod_test.git
